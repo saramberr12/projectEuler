@@ -1,13 +1,14 @@
 {
     "configurations": [
+
         {
             "type": "java",
-            "name": "CodeLens (Launch) - ProblemTwo",
+            "name": "CodeLens (Launch) - ProblemOne",
             "request": "launch",
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
             "stopOnEntry": false,
-            "mainClass": "ProblemTwo",
+            "mainClass": "ProblemOne",
             "args": ""
         }
     ]
