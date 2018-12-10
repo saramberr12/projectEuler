@@ -1,8 +1,8 @@
 public class ProblemTwo {
 
-    static int a = 0; 
-    static int b = 1;
-    static int c = 0;
+    static int a = 1; 
+    static int b = 2;
+    static int c = 1;
 
     static void fib(int count) {
         if (count > 0) {
